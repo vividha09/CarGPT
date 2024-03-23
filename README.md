@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# EnemiesOfSyntax_Datahack Datathon
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Problem Statement
 
-## Available Scripts
+The goal of the datathon is to develop a predictive model that can accurately predict the price of a used car based on some factors.
 
-In the project directory, you can run:
+# Features
 
-### `npm start`
+CarGPT is a highly useful and innovative application that is designed to assist people across the country with the sale of their car.
+With the help of our advanced technology and expertise, we offer accurate predictions of the estimated price of their vehicle.
+We developed a  recommender system that not only suggests cars to the user but also goes a step further in recommending vehicles that are similar to their preferences and needs
+Our expertise goes beyond simply predicting car prices; we also offer comprehensive price comparisons to ensure that you have access to the most accurate and up-to-date information.
+Our cutting-edge model goes above and beyond by not only detecting dents and scratches on your vehicle, but also providing you with a range of insurance policies to choose from that best suit your needs.
+With our comprehensive approach, you can rest assured that your car is in good hands and that you have the coverage you need to protect your investment.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Our advanced technology now offers the convenience of voice chatbots. With our voice chatbots, you can quickly and easily get the information you need without the hassle of navigating through complicated menus or interfaces
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Business Model
 
-### `npm test`
+We will focus on one main method of marketing which is paid subscription and adds.
+Affiliate Marketing- Through affiliated links, our website can earn commissions when readers buy the product or services of the company
+Key partners for a car selling website would include car dealerships, financing providers, insurance providers, and logistics companies.
+Provide discount coupons, which will make sure that the customer will return again, even if it means we are giving a discount of very small amount.
+ The cost structure for a car selling website would include the expenses associated with building and maintaining the website platform, marketing and advertising, staff salaries, and any other overhead costs.
+The website should identify the channels it will use to reach its customers and promote its services. This could include online advertising, social media, email marketing, or partnerships with other websites and businesses
+The primary revenue streams for a car selling website would come from commission or fees charged for every car sold through the website. This can be either a percentage of the sale price or a flat fee.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Demo
 
-### `npm run build`
+https://user-images.githubusercontent.com/80118978/229631956-d347fbdd-547b-413a-a55d-810fcfd725a2.mp4
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Contributors :
+<br />Dishant Zaveri (ReactNative + Ml) : https://github.com/dishantzaveri
+<br />Aditya Shah (Ml) : https://github.com/adityashah841
+<br />Siddhant Dutta (Ml) : https://github.com/elucidator8918
+<br />Vividha Jagtap (React Frontend) : https://github.com/vividha09
